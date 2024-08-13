@@ -2,92 +2,60 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf)
-
+* [**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf)\\
 **Ke Ji**, Yixin Lian, Jingsheng Gao, Baoyuan Wang \\
 The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023.
 
-[//]: # (📄 [**Paper**]&#40;https://aclanthology.org/2023.acl-long.164.pdf&#41; 🍔 [**Code**]&#40;https://github.com/1KE-JI/HierVerb&#41;)
-
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**](https://arxiv.org/pdf/2407.08959)
-
+* [**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**](https://arxiv.org/pdf/2407.08959)\\
 **Ke Ji**, Peng Wang, Wenjun Ke, Guozheng Li, et al. \\
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2023.
 
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/pdf/2311.09774&#41; 🍔 [**Code**]&#40;https://github.com/FreedomIntelligence/HuatuoGPT-II&#41;)
-
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**LLMs Could Autonomously Learn Without External Supervision**](https://arxiv.org/pdf/2406.00606)
-
+* [**LLMs Could Autonomously Learn Without External Supervision**](https://arxiv.org/pdf/2406.00606)\\
 **Ke Ji\***, Junying Chen*, Anningzhe Gao, Wenya Xie, Xiang Wan, Benyou Wang \\
 Preprint, 2024.
-
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/pdf/2311.09774&#41; 🍔 [**Code**]&#40;https://github.com/FreedomIntelligence/HuatuoGPT-II&#41;)
-
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://arxiv.org/abs/2311.09774)
-
+* [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://arxiv.org/abs/2311.09774)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 Conference on Language Modeling 2024 (**COLM**), 2024.
-
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/pdf/2311.09774&#41; 🍔 [**Code**]&#40;https://github.com/FreedomIntelligence/HuatuoGPT-II&#41;)
-
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**fmLRE: a low-resource relation extraction model based on feature mapping similarity calculation**](https://arxiv.org/abs/2311.09774)
-
+* [**fmLRE: a low-resource relation extraction model based on feature mapping similarity calculation**](https://arxiv.org/abs/2311.09774)\\
 Peng Wang, Tong Shao, **Ke Ji**, Guozheng Li, Wenjun Ke \\
 Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/pdf/2311.09774&#41; 🍔 [**Code**]&#40;https://github.com/FreedomIntelligence/HuatuoGPT-II&#41;)
-
 </div>
 
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**](https://arxiv.org/pdf/2407.13301)
-
+* [**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**](https://arxiv.org/pdf/2407.13301)\\
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 Preprint, 2024.
-
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/pdf/2311.09774&#41; 🍔 [**Code**]&#40;https://github.com/FreedomIntelligence/HuatuoGPT-II&#41;)
-
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-[**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/pdf/2312.08212)
-
+* [**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/pdf/2312.08212)\\
 Jingsheng Gao, Jiacheng Ruan, Suncheng Xiang, Zefang Yu, **Ke Ji**, et al. \\
 The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (CCF-A)
 
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/abs/2312.08212.pdf&#41; 🍔 [**Code**]&#40;https://github.com/gaojingsheng/LAMM&#41;)
-
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-[**LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them**](https://arxiv.org/pdf/2406.18034)
-
+* [**LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them**](https://arxiv.org/pdf/2406.18034)\\
 Wenya Xie, Qingying Xiao, Yu Zheng, Xidong Wang, Junying Chen, **Ke Ji**, et al. \\
 Preprint, 2024.
-
-[//]: # (📄 [**Paper**]&#40;https://arxiv.org/abs/2312.08212.pdf&#41; 🍔 [**Code**]&#40;https://github.com/gaojingsheng/LAMM&#41;)
-
 </div>
-
-
-
