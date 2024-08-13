@@ -5,18 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 title                    : "Ke Ji (冀轲)"
-description              : "The Chinese University of Hong Kong, Shenzhen. Focusing on few-shot learning, LLM, continual learning and super-alignment."
+description              : "Phd student at The Chinese University of Hong Kong, Shenzhen."
 repository               : "jike/jike.github.io"
 
 author:
   name             : "Ke Ji (冀轲)"
-  avatar           : "images/头像.JPG" # "images/bio-photo.jpeg"
+  avatar           : "images/photo.jpg" # "images/bio-photo.jpeg"
   bio              : # "Shanghai Jiao Tong University"
   location         : "Shenzhen and Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : 'https://scholar.google.com/citations?user=F0BAd_IAAAAJ&hl=zh-CN'
-  email            : "jk1002497318@gmail.com"
+  email            : "keji@link.cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            :  'https://www.zhihu.com/people/cautious-56'
+  zhihu            : # 'https://www.zhihu.com/people/cautious-56'
   
 
 # Reading Files
