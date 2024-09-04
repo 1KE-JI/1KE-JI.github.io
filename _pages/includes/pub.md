@@ -25,7 +25,7 @@ Preprint, 2024.
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-* [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://arxiv.org/abs/2311.09774)\\
+* [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 Conference on Language Modeling 2024 (**COLM**), 2024.
 </div>
