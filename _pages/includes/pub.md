@@ -55,6 +55,14 @@ The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (CC
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+* [**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**](https://arxiv.org/pdf/2402.13741)\\
+Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, et al. \\
+Preprint, 2024.
+</div>
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+
 * [**LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them**](https://arxiv.org/pdf/2406.18034)\\
 Wenya Xie, Qingying Xiao, Yu Zheng, Xidong Wang, Junying Chen, **Ke Ji**, et al. \\
 Preprint, 2024.
