@@ -49,7 +49,7 @@ Preprint, 2024.
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 * [**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/pdf/2312.08212)\\
 Jingsheng Gao, Jiacheng Ruan, Suncheng Xiang, Zefang Yu, **Ke Ji**, et al. \\
-The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (CCF-A)
+The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 </div>
 
@@ -57,7 +57,7 @@ The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (CC
 
 * [**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**](https://arxiv.org/pdf/2402.13741)\\
 Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, et al. \\
-Preprint, 2024.
+International Conference on Computational Linguistics (**COLING**), 2024
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
