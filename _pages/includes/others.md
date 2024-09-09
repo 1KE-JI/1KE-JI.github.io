@@ -12,7 +12,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2024.07 - now*, Sora Engineering, University of Toronto.
+- *2024.07 - now*, Sora Engineering, U of T & HKUST.
 
 - *2024.01 - now*, LLM for Medical, The Chinese University of Hongkong, Shenzhen.
 
