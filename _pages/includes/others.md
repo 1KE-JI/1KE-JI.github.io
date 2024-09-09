@@ -8,7 +8,15 @@
 
 </div>
 
-# Internships
+# Teaching Experience
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+- *2024.09 - now*, [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
+
+</div>
+
+# Research Experience 
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
@@ -18,7 +26,7 @@
 
 - *2022.01 - 2023.01*, Prompt Learning, Xiaoice.
 
-
+- *2020.10 - now*, Few-shot Learning and Continual Learning, Southeast University.
 </div>
 
 
