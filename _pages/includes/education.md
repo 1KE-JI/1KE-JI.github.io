@@ -2,7 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2024.09 - now*,     Ph.D., The Chinese University of Hong Kong, Shenzhen.
+- *2024.09 - now*,     PhD., The Chinese University of Hong Kong, Shenzhen.
 
 - *2021.09 - 2024.07*, Master, Southeast University, Nanjing. (National Scholarship, Top 1%)
 
