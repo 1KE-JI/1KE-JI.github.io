@@ -19,5 +19,5 @@ Email: keji@link.cuhk.edu.cn
 # Research
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 My current research interests lie in large language models and medical NLP. 
-Currently, I am focused on Self-Improvement, Data Effective Learning and Hallucination.
+Currently, I am focused on Self-Improvement, Efficiency and Lifelong Learning.
 </div>
