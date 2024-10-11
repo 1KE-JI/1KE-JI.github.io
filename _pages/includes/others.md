@@ -22,7 +22,7 @@
 
 - *2024.10 - now*, Efficiency and Reasoning, Tencent AI Lab.
 
-- *2024.07 - 2024.10*, Video Generation, U of T and HKUST.
+- *2024.07 - now*, Video Generation, U of T and HKUST.
 
 - *2024.01 - now*, LLM for Medical, The Chinese University of Hongkong, Shenzhen.
 
