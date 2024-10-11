@@ -5,6 +5,7 @@ Hi!
 
 I am currently a PhD student at [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Benyou Wang](https://sds.cuhk.edu.cn/en/teacher/571).
 Prior to CUHK-sz, I earned my master's from Southeast University, supervised by [Prof. Peng Wang](https://cse.seu.edu.cn/_s191/2023/1024/c23024a469544/page.psp), and my bachelor's from Zhengzhou University.
+Now I am interning at Tencent AI Lab under [Dr.🫡Zhaopeng](https://tuzhaopeng.github.io/) Tu’s supervision.
 
 Find me on [Google Scholar](https://scholar.google.com/citations?user=F0BAd_IAAAAJ&hl=zh-CN), and [Github](https://github.com/1KE-JI)!
 
