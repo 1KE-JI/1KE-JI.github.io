@@ -26,7 +26,7 @@ Preprint, 2024.
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**](https://arxiv.org/abs/2412.18925)\\
-Junying Chen, Zhenyang Cai, Ke Ji, et al. \\
+Junying Chen, Zhenyang Cai, **Ke Ji**, et al. \\
 Preprint, 2024.
 </div>
 
