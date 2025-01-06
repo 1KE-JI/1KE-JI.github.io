@@ -25,9 +25,23 @@ Preprint, 2024.
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+* [**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**](https://arxiv.org/abs/2412.18925)\\
+Junying Chen, Zhenyang Cai, Ke Ji, et al. \\
+Preprint, 2024.
+</div>
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
 * [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 Conference on Language Modeling 2024 (**COLM**), 2024.
+</div>
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+* [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
+Jingsheng Gao, Linxu Li, Ke Ji, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai
+Preprint, 2024.
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
