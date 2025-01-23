@@ -41,7 +41,7 @@ Conference on Language Modeling 2024 (**COLM**), 2024.
 
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
 Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai \\
-Preprint, 2024.
+The Thirteenth International Conference on Learning Representations (**ICLR**), 2025.
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
