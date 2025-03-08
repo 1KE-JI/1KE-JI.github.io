@@ -20,7 +20,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2024.10 - now*, Post-Training & Reasoning, Tencent AI Lab.
+- *2024.10 - now*, Post-Training and Reasoning, Tencent AI Lab.
 
 - *2024.08 - 2024.11*, Video Generation, U of T and HKUST.
 
