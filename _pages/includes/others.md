@@ -12,7 +12,9 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2024.09 - now*, [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
+- *2025.02 - now*, [Natural Language Processing](https://nlp-course-cuhksz.github.io/) (TA), The Chinese University of Hongkong, Shenzhen.
+- 
+- *2024.09 - 2025.01*, [Large Language Models](https://llm-course.github.io/) (TA), The Chinese University of Hongkong, Shenzhen.
 
 </div>
 
