@@ -24,7 +24,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2023.
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-* [**LLMs Could Autonomously Learn Without External Supervision**](https://arxiv.org/pdf/2406.00606)\\
+* [**Unlocking LLMs' Self-Improvement Capacity with Autonomous Learning for Knowledge Generalization**](https://arxiv.org/pdf/2406.00606)\\
 **Ke Ji**, Junying Chen, Anningzhe Gao, Wenya Xie, Xiang Wan, Benyou Wang \\
 Preprint, 2024.
 </div>
