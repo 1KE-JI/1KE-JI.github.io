@@ -18,7 +18,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 
 * [**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**](https://arxiv.org/pdf/2407.08959)\\
 **Ke Ji**, Peng Wang, Wenjun Ke, Guozheng Li, et al. \\
-International Joint Conference on Artificial Intelligence (**IJCAI**), 2023.
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2024.
 
 </div>
 
