@@ -3,7 +3,7 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
 **Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, et al. \\
-Preprint, 2024.
+Preprint, 2025.
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
