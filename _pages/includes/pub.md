@@ -52,7 +52,16 @@ The Thirteenth International Conference on Learning Representations (**ICLR**), 
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-* [**fmLRE: a low-resource relation extraction model based on feature mapping similarity calculation**](https://arxiv.org/abs/2311.09774)\\
+* [**RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions**](https://arxiv.org/pdf/2501.00353)\\
+Wanlong Liu, Junying Chen, **Ke Ji**, Li Zhou, Wenyu Chen, Benyou Wang \\
+Preprint, 2024.
+</div>
+
+
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+* [**fmLRE: a low-resource relation extraction model based on feature mapping similarity calculation**](https://ojs.aaai.org/index.php/AAAI/article/view/26605)\\
 Peng Wang, Tong Shao, **Ke Ji**, Guozheng Li, Wenjun Ke \\
 Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 
