@@ -4,8 +4,12 @@
 
 - [HuatuoGPT-II](https://v2.huatuogpt.cn/): An Expert-Level Medical Large Language Model
 - [DiagnosisGPT](https://diagnosis.huatuogpt.cn/): An Interpretable Medical Diagnostic Large Language Model
+</div>
 
+# Competitions
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- AIMO2 Gold Medalist (HUAWEI-CUHKSZ)
 </div>
 
 # Teaching Experience
