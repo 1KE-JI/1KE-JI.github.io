@@ -37,7 +37,6 @@ ACL 2025 Findings
 ACL 2025 Findings
 </div>
 
-
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
@@ -57,13 +56,6 @@ ACL 2025 Findings
 * [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 COLM 2024
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-* [**RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions**](https://arxiv.org/pdf/2501.00353)\\
-Wanlong Liu, Junying Chen, **Ke Ji**, Li Zhou, Wenyu Chen, Benyou Wang \\
-Preprint, 2024.
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
