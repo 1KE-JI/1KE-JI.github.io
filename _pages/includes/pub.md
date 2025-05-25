@@ -7,6 +7,19 @@
 Preprint, 2025.
 </div>
 
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+* [**Unlocking LLMs' Self-Improvement Capacity with Autonomous Learning for Knowledge Generalization**](https://arxiv.org/pdf/2406.00606)\\
+**Ke Ji**, Junying Chen, Anningzhe Gao, Wenya Xie, Xiang Wan, Benyou Wang \\
+ACL 2025 Findings
+</div>
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+* [**Enhancing Persona Consistency for LLMs' Role-Playing using Persona-Aware Contrastive Learning**](https://arxiv.org/pdf/2503.17662)\\
+**Ke Ji**, Yixin Lian, Linxu Li, Jingsheng Gao, Weiyuan Li, Bin Dai \\
+ACL 2025 Findings
+</div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
@@ -23,19 +36,7 @@ IJCAI 2024
 
 </div>
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-* [**Unlocking LLMs' Self-Improvement Capacity with Autonomous Learning for Knowledge Generalization**](https://arxiv.org/pdf/2406.00606)\\
-**Ke Ji**, Junying Chen, Anningzhe Gao, Wenya Xie, Xiang Wan, Benyou Wang \\
-ACL 2025 Findings
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-* [**Enhancing Persona Consistency for LLMs' Role-Playing using Persona-Aware Contrastive Learning**](https://arxiv.org/pdf/2503.17662)\\
-**Ke Ji**, Yixin Lian, Linxu Li, Jingsheng Gao, Weiyuan Li, Bin Dai \\
-ACL 2025 Findings
-</div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
