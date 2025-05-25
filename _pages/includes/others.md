@@ -27,7 +27,9 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2024.10 - now*, Post-Training and Reasoning, Tencent AI Lab.
+- *2025.06 - nox*, Long-Horizon Reasoning & Tool-Integrated RL, Minimax.
+
+- *2024.10 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 
 - *2024.08 - 2024.11*, Video Generation, U of T and HKUST.
 
