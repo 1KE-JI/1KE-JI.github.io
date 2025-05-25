@@ -74,10 +74,3 @@ Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 ACL 2025 Findings
 </div>
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-* [**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/pdf/2312.08212)\\
-Jingsheng Gao, Jiacheng Ruan, Suncheng Xiang, Zefang Yu, **Ke Ji**, et al. \\
-AAAI 2024
-
-</div>
