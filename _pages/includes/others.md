@@ -27,7 +27,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2025.06 - nox*, Long-Horizon Reasoning & Tool-Integrated RL, Minimax.
+- *2025.06 - now*, Long-Horizon Reasoning and Tool-Integrated RL, Minimax.
 
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 
