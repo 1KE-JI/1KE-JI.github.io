@@ -27,8 +27,8 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2025.06 - now*, Long-Horizon Reasoning and Tool-Integrated RL, Minimax.
-
+- *2025.06 - now*, Long-Horizon Reasoning and Agent RL, MiniMax.
+- 
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 
 - *2024.08 - 2024.11*, Video Generation, U of T and HKUST.
