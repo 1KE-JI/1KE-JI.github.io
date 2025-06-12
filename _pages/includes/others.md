@@ -31,8 +31,6 @@
 
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 
-- *2024.08 - 2024.11*, Video Generation, U of T and HKUST.
-
 - *2024.01 - now*, LLM for Medical, The Chinese University of Hongkong, Shenzhen.
 
 - *2022.01 - 2023.01*, Prompt Learning, Xiaoice.
