@@ -38,4 +38,20 @@
 - *2020.10 - now*, Few-shot Learning and Continual Learning, Southeast University.
 </div>
 
+<div id="footer1">
+		<h2> </h2>
+		<div align="center">
+		  <small>This page has been visited for
+			<a href="https://www.easycounter.com/">
+			<img src="https://www.easycounter.com/counter.php?tyc" border="0" alt="HTML Hit Counter"></a>
+
+	
+  <p>
+	<center>
+	<div align="center" style="width:20%">
+	  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qiU-RdfzQ5M0yLNi5rDZWbDZB2ulHFNhMw_1-YiP1pg"></script>
+	</div>        
+	</center>
+  </p>
+
 
