@@ -27,7 +27,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2025.06 - now*, Interleaved Agent and Multi-turn RL, MiniMax.
+- *2025.06 - now*, Tool-integrated Reasoning and Interleaved Agent, MiniMax.
 
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 
