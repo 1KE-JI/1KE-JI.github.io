@@ -21,6 +21,5 @@ Email: keji@link.cuhk.edu.cn
 
 # Research
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-My current research interests lie in large language models and medical NLP. 
 Currently, I am focused on Large Language Models, Agents, and Mathematical Reasoning.
 </div>
