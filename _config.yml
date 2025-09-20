@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaochen Su's Homepage"
-description              : "Less is More"
-repository               : "zhaochen0110/zhaochen0110.github.io"
+title                    : "Ke Ji's Homepage"
+description              : ""
+repository               : "1KE-JI/1KE-JI.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -43,7 +43,6 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +50,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
   vine             :
   weibo            :
   xing             :
