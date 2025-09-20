@@ -1,10 +1,3 @@
-# Projects
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-- [HuatuoGPT-II](https://v2.huatuogpt.cn/): An Expert-Level Medical Large Language Model
-- [DiagnosisGPT](https://diagnosis.huatuogpt.cn/): An Interpretable Medical Diagnostic Large Language Model
-</div>
 
 # Competitions
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
@@ -16,7 +9,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2025.02 - now*, Teaching Assistant of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hongkong, Shenzhen.
+- *2025.02 - 2025.07*, Teaching Assistant of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hongkong, Shenzhen.
 - *2024.09 - 2025.01*, Teaching Assistant of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
 
 [//]: # (- *2024.09 - 2025.01*, Teaching Assistant of [Large Language Models]&#40;https://llm-course.github.io/&#41;, The Chinese University of Hongkong, Shenzhen.)
@@ -27,7 +20,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2025.06 - now*, Tool-integrated Reasoning and Interleaved Agent, MiniMax.
+- *2025.06 - now*, Interleaved Agent, MiniMax.
 
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 

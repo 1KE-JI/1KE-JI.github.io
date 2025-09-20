@@ -21,5 +21,5 @@ Email: keji@link.cuhk.edu.cn
 
 # Research
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-Currently, I am focused on Large Language Models, Agents, and Mathematical Reasoning.
+I am focused on Large Language Models, Agents, and Mathematical Reasoning.
 </div>
