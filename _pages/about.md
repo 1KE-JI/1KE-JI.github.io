@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently a PhD student at [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://wabyking.github.io/old.html), advised by [Prof. Benyou Wang](https://sds.cuhk.edu.cn/en/teacher/571).
-Prior to CUHK(SZ), I earned my master's from Southeast University, supervised by [Prof. Peng Wang](https://cs.seu.edu.cn/2023/1024/c23024a469544/page.htm), and my bachelor's from Zhengzhou University.
-Now I am interning in the General Model Department at MiniMax.
+Hi! I am Ke Ji (冀轲), a PhD student at [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://wabyking.github.io/old.html), advised by [Prof. Benyou Wang](https://sds.cuhk.edu.cn/en/teacher/571).
+Prior to CUHK(SZ), I earned my master's from Southeast University, supervised by [Prof. Peng Wang](https://cs.seu.edu.cn/2023/1024/c23024a469544/page.htm), and my bachelor's from Zhengzhou University. 
+Currently, I am focused on Large Language Models, Agents, and Mathematical Reasoning.
 
 [//]: # (Now I am interning at the NLP Center of Tencent AI Lab under the supervision of [Dr.Zhaopeng Tu]&#40;https://tuzhaopeng.github.io/&#41;.)
 
@@ -27,10 +27,7 @@ Find me on [Google Scholar](https://scholar.google.com/citations?user=F0BAd_IAAA
 
 Email: keji@link.cuhk.edu.cn
 
-# Research
-I am focused on Large Language Models, Agents, and Mathematical Reasoning.
-
-# Publications
+# 📝Publications
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
 **Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, et al. \\
 Neurips 2025
@@ -75,12 +72,12 @@ COLM 2024
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 ACL 2025 Findings
 
-# Educations
+# 📖Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
 - *2021.09 - 2024.07*, Master, Southeast University, Nanjing. (National Scholarship, Top 1%)
 - *2017.09 - 2021.06*, Bachelor, Zhengzhou University, Zhengzhou. (GPA Rank: Top 5%)
 
-# Honors and Awards
+# 🎖Honors and Awards
 
 * Southeast University Outstanding Graduate in 2024
 * National Scholarship in 2023
@@ -96,7 +93,7 @@ ACL 2025 Findings
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hongkong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
 
-# Research Experience
+# 💻Research Experience
 - *2025.06 - now*, Interleaved Agent, MiniMax.
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
 - *2024.01 - now*, LLM for Medical, The Chinese University of Hongkong, Shenzhen.
