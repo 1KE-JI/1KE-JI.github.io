@@ -13,10 +13,6 @@ Find me on [Google Scholar](https://scholar.google.com/citations?user=F0BAd_IAAA
 
 Email: keji@link.cuhk.edu.cn
 
-[//]: # (In my free time, I enjoy swimming, playing board games, and photography. Additionally, I occasionally post random thoughts on [Zhihu]&#40;https://www.zhihu.com/people/cautious-56&#41;.)
-
-[//]: # (📢 I am expected to graduate in 2025. If you have any suitable job recommendations, please feel free to contact me.)
-
 </div>
 
 # Research
