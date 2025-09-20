@@ -3,7 +3,7 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
-**Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, et al. \\
+**Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, et al. \\
 Neurips 2025
 </div>
 
@@ -31,7 +31,7 @@ ACL 2023
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**](https://arxiv.org/pdf/2407.08959)\\
-**Ke Ji**, Peng Wang, Wenjun Ke, Guozheng Li, et al. \\
+**Ke Ji**, Peng Wang, Wenjun Ke, Guozheng Li, Jiajun Liu, Jingsheng Gao, et al. \\
 IJCAI 2024
 
 </div>
@@ -39,14 +39,14 @@ IJCAI 2024
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
-Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai \\
+Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, et al. \\
 ICLR 2025
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**](https://arxiv.org/pdf/2506.12860)\\
-Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, **Ke Ji**, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang \\
+Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, **Ke Ji**, Wenyu Chen, et al. \\
 Neurips 2025 (spotlight)
 </div>
 
@@ -61,7 +61,7 @@ Preprint
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**](https://arxiv.org/abs/2412.18925)\\
-Junying Chen, Zhenyang Cai, **Ke Ji**, et al. \\
+Junying Chen, Zhenyang Cai, **Ke Ji**, Xidong Wang, Wanlong Liu, Rongsheng Wang, et al. \\
 ACL 2025 Findings
 </div>
 
