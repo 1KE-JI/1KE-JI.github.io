@@ -4,7 +4,7 @@
 
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
 **Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, et al. \\
-Preprint, 2025.
+Neurips 2025
 </div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
@@ -36,14 +36,27 @@ IJCAI 2024
 
 </div>
 
-
-
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
 Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai \\
 ICLR 2025
 </div>
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+* [**QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**](https://arxiv.org/pdf/2506.12860)\\
+Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, **Ke Ji**, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang \\
+Neurips 2025 (spotlight)
+</div>
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+* [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501)\\
+Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al. \\
+Preprint
+</div>
+
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
@@ -57,13 +70,6 @@ ACL 2025 Findings
 * [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 COLM 2024
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-* [**fmLRE: a low-resource relation extraction model based on feature mapping similarity calculation**](https://ojs.aaai.org/index.php/AAAI/article/view/26605)\\
-Peng Wang, Tong Shao, **Ke Ji**, Guozheng Li, Wenjun Ke \\
-AAAI 2023
 </div>
 
 
