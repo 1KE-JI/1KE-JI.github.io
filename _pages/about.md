@@ -79,16 +79,13 @@ ACL 2025 Findings
 
 # 🎖Honors and Awards
 
+* AIMO2 Gold Medalist in 2025 (HUAWEI-CUHKSZ)
 * Southeast University Outstanding Graduate in 2024
 * National Scholarship in 2023
 * Excellent Graduate Cadre and Pacemaker to Merit Student of Southeast University in 2023
 * Zhengzhou University Outstanding Graduate in 2021
 
-
-# Competitions
-- AIMO2 Gold Medalist (HUAWEI-CUHKSZ)
-
-# Teaching Experience
+# 💁Teaching Experience
 
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hongkong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
