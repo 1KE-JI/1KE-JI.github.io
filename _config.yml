@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaochen Su"
-  avatar           : "images/szc.jpeg"
-  bio              : "Hong Kong University of Science and Technology"
+  name             : "Ke Ji"
+  avatar           : "images/jike.png"
+  bio              : "The Chinese University of Hong Kong, Shenzhen"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ponDXAYAAAAJ"
-  email            : "suzhaochen0110@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=F0BAd_IAAAAJ&hl"
+  email            : "keji@link.cuhk.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaochen0110"
+  github           : "1KE-JI"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhaochen-su-4a103b295"
+  linkedin         : ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SuZhaochen0110" 
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
