@@ -32,12 +32,10 @@ I am focused on Large Language Models, Agents, and Mathematical Reasoning.
 
 # 📝 Publications 
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
 **Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, et al. \\
 Neurips 2025
-</div>
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
@@ -131,18 +129,14 @@ ACL 2025 Findings
 
 # Competitions
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-
 - AIMO2 Gold Medalist (HUAWEI-CUHKSZ)
 </div>
 
 # Teaching Experience
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hongkong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
-
-
 </div>
 
 # Research Experience 
