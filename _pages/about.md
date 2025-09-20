@@ -30,9 +30,7 @@ Email: keji@link.cuhk.edu.cn
 # Research
 I am focused on Large Language Models, Agents, and Mathematical Reasoning.
 
-# 📝 Publications 
-
-
+# Publications
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
 **Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, et al. \\
 Neurips 2025
@@ -77,7 +75,7 @@ COLM 2024
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 ACL 2025 Findings
 
-# 📖 Educations
+# Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
 - *2021.09 - 2024.07*, Master, Southeast University, Nanjing. (National Scholarship, Top 1%)
 - *2017.09 - 2021.06*, Bachelor, Zhengzhou University, Zhengzhou. (GPA Rank: Top 5%)
