@@ -37,79 +37,45 @@ I am focused on Large Language Models, Agents, and Mathematical Reasoning.
 **Ke Ji**, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, et al. \\
 Neurips 2025
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
 * [**Unlocking LLMs' Self-Improvement Capacity with Autonomous Learning for Knowledge Generalization**](https://arxiv.org/pdf/2406.00606)\\
 **Ke Ji**, Junying Chen, Anningzhe Gao, Wenya Xie, Xiang Wan, Benyou Wang \\
 ACL 2025 Findings
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**Enhancing Persona Consistency for LLMs' Role-Playing using Persona-Aware Contrastive Learning**](https://arxiv.org/pdf/2503.17662)\\
 **Ke Ji**, Yixin Lian, Linxu Li, Jingsheng Gao, Weiyuan Li, Bin Dai \\
 ACL 2025 Findings
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf)\\
 **Ke Ji**, Yixin Lian, Jingsheng Gao, Baoyuan Wang \\
 ACL 2023
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**](https://arxiv.org/pdf/2407.08959)\\
 **Ke Ji**, Peng Wang, Wenjun Ke, Guozheng Li, Jiajun Liu, Jingsheng Gao, et al. \\
 IJCAI 2024
 
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
 Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, et al. \\
 ICLR 2025
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**](https://arxiv.org/pdf/2506.12860)\\
 Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, **Ke Ji**, Wenyu Chen, et al. \\
 Neurips 2025 (spotlight)
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501)\\
 Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al. \\
 Preprint
-</div>
-
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**](https://arxiv.org/abs/2412.18925)\\
 Junying Chen, Zhenyang Cai, **Ke Ji**, Xidong Wang, Wanlong Liu, Rongsheng Wang, et al. \\
 ACL 2025 Findings
-</div>
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 COLM 2024
-</div>
-
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 * [**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**](https://arxiv.org/pdf/2407.13301)\\
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 ACL 2025 Findings
-</div>
-
 
 # 📖 Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
@@ -118,41 +84,26 @@ ACL 2025 Findings
 
 # Honors and Awards
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
 * Southeast University Outstanding Graduate in 2024
 * National Scholarship in 2023
 * Excellent Graduate Cadre and Pacemaker to Merit Student of Southeast University in 2023
 * Zhengzhou University Outstanding Graduate in 2021
 
-</div>
 
 # Competitions
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 - AIMO2 Gold Medalist (HUAWEI-CUHKSZ)
-</div>
 
 # Teaching Experience
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hongkong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hongkong, Shenzhen.
-</div>
 
-# Research Experience 
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
+# Research Experience
 - *2025.06 - now*, Interleaved Agent, MiniMax.
-
 - *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
-
 - *2024.01 - now*, LLM for Medical, The Chinese University of Hongkong, Shenzhen.
-
 - *2022.01 - 2023.01*, Prompt Learning, Xiaoice.
-
 - *2020.10 - now*, Few-shot Learning and Continual Learning, Southeast University.
-</div>
 
 
 
