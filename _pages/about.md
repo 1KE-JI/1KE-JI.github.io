@@ -93,7 +93,7 @@ ACL 2025 Findings
 
 # 💻Internships
 - *2025.06 - now*, Interleaved Agent, MiniMax.
-- *2024.11 - 2025.5*, Mathematical Reasoning and Self-Improvement, Tencent AI Lab.
+- *2024.10 - 2025.5*, Self-Improvement and Mathematical Reasoning, Tencent AI Lab.
 - *2022.01 - 2023.01*, Prompt-based Learning, Xiaoice.
 
 
