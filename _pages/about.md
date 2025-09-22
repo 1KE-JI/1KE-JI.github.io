@@ -53,6 +53,10 @@ IJCAI 2024
 Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, et al. \\
 ICLR 2025
 
+* [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
+Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
+COLM 2024
+* 
 * [**QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**](https://arxiv.org/pdf/2506.12860)\\
 Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, **Ke Ji**, Wenyu Chen, et al. \\
 Neurips 2025 (spotlight)
@@ -64,10 +68,6 @@ Preprint
 * [**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**](https://arxiv.org/abs/2412.18925)\\
 Junying Chen, Zhenyang Cai, **Ke Ji**, Xidong Wang, Wanlong Liu, Rongsheng Wang, et al. \\
 ACL 2025 Findings
-
-* [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
-Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
-COLM 2024
 
 * [**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**](https://arxiv.org/pdf/2407.13301)\\
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
