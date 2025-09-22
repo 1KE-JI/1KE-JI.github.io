@@ -17,7 +17,10 @@ main:
 
 #  - title: "Volunteer"
 #    url: "/#-Volunteer"
-    
+
+  - title: "Teaching Experience"
+    url: "/#-teaching_experience"
+
   - title: "Internships"
     url: "/#-internships"
 
