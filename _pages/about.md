@@ -56,7 +56,7 @@ ICLR 2025
 * [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
 COLM 2024
-* 
+
 * [**QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**](https://arxiv.org/pdf/2506.12860)\\
 Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, **Ke Ji**, Wenyu Chen, et al. \\
 Neurips 2025 (spotlight)
