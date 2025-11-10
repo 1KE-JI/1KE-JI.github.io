@@ -72,6 +72,10 @@ ACL 2025 Findings
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 ACL 2025 Findings
 
+* [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501) \\
+Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al.\\
+Preprint
+
 # 📖Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
 - *2021.09 - 2024.07*, Master, Southeast University, Nanjing. (National Scholarship, Top 1%)
