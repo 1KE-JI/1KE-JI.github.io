@@ -74,7 +74,7 @@ ACL 2025 Findings
 
 * [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501) \\
 Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al.\\
-Preprint
+Technical Report
 
 # 📖Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
