@@ -33,8 +33,6 @@ Email: keji@link.cuhk.edu.cn
 
 # 📝 Selected Publications
 
-<small>\* denotes co-first authors</small>
-
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
 **Ke Ji**\*, Jiahao Xu\*, Tian Liang\*, Qiuzhi Liu\*, Zhiwei He, Xingyu Chen, et al. \\
 *NeurIPS 2025*
