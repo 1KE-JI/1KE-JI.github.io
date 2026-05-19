@@ -40,7 +40,7 @@ Neurips 2025
 ACL 2025 Findings
 
 * [**Do Phone-Use Agents Respect Your Privacy?**](https://arxiv.org/pdf/2604.00986)\\
-Zhengyang Tang*, **Ke Ji\***, Xidong Wang*, Zihan Ye*, et al. \\
+Zhengyang Tang*, **Ke Ji**, Xidong Wang*, Zihan Ye*, et al. \\
 ACL 2025 Findings
 
 * [**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf)\\
