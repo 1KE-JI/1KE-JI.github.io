@@ -23,9 +23,7 @@ Hi! I am Ke Ji (冀轲), a PhD student at [School of Data Science](https://sds.c
 Prior to CUHK(SZ), I earned my master's from Southeast University, supervised by [Prof. Peng Wang](https://cs.seu.edu.cn/2023/1024/c23024a469544/page.htm), and my bachelor's from Zhengzhou University. 
 Currently, I am focused on Large Language Models and Reasoning Alignment.
 
-
 [//]: # (Now I am interning at the NLP Center of Tencent AI Lab under the supervision of [Dr.Zhaopeng Tu]&#40;https://tuzhaopeng.github.io/&#41;.)
-
 
 Find me on [Google Scholar](https://scholar.google.com/citations?user=F0BAd_IAAAAJ&hl=zh-CN), and [Github](https://github.com/1KE-JI)!
 
@@ -39,6 +37,10 @@ Neurips 2025
 
 * [**Unlocking LLMs' Self-Improvement Capacity with Autonomous Learning for Knowledge Generalization**](https://arxiv.org/pdf/2406.00606)\\
 **Ke Ji**, Junying Chen, Anningzhe Gao, Wenya Xie, Xiang Wan, Benyou Wang \\
+ACL 2025 Findings
+
+* [**Do Phone-Use Agents Respect Your Privacy?**](https://arxiv.org/pdf/2604.00986)\\
+Zhengyang Tang*, Ke Ji*&=*, Xidong Wang, Zihan Ye, et al. \\
 ACL 2025 Findings
 
 * [**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf)\\
@@ -59,6 +61,10 @@ ICLR 2025
 
 * [**Huatuogpt-ii, one-stage training for medical adaption of llms**](https://openreview.net/pdf?id=eJ3cHNu7ss)\\
 Junying Chen, Xidong Wang, **Ke Ji**, Anningzhe Gao, et al. \\
+COLM 2024
+
+* [**Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**](https://arxiv.org/pdf/2605.14723)\\
+Minghao Wu, Yuting Yan, Zhenyang Cai, **Ke Ji**, et al. \\
 COLM 2024
 
 * [**QFFT, Question-Free Fine-Tuning for Adaptive Reasoning**](https://arxiv.org/pdf/2506.12860)\\
