@@ -33,6 +33,8 @@ Email: keji@link.cuhk.edu.cn
 
 # 📝 Selected Publications
 
+<div class="pub-list" markdown="1">
+
 <small>\* denotes co-first authors</small>
 
 * [**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**](https://arxiv.org/abs/2503.02875)\\
@@ -91,6 +93,7 @@ Junying Chen, Zhenyang Cai, **Ke Ji**, Xidong Wang, Wanlong Liu, Rongsheng Wang,
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 *ACL 2025 Findings*
 
+</div>
 
 # 📖 Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.

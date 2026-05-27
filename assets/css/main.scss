@@ -97,6 +97,18 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+.pub-list a {
+    color: $text-color;
+
+    &:visited {
+        color: $text-color;
+    }
+
+    &:hover {
+        color: $text-color;
+    }
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
