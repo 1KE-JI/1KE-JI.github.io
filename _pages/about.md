@@ -63,11 +63,12 @@ Zhengyang Tang\*, **Ke Ji**\*, Xidong Wang\*, Zihan Ye\*, et al. \\
 
 * [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501)\\
 Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al. \\
-<span style="color:#2980b9">MiniMax Agent Technical Report</span>
+MiniMax Agent Technical Report
 
 * [**The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence**](https://arxiv.org/pdf/2605.26494)\\
 MiniMax Team \\
-<span style="color:#2980b9">MiniMax Technical Report</span>
+MiniMax Technical Report
+<!-- <span style="color:#2980b9">MiniMax Technical Report</span> -->
 
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
 Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, et al. \\
