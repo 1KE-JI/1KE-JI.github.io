@@ -85,7 +85,7 @@ Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 
 * [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501)\\
 Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al. \\
-*Technical Report*
+*MiniMax Agent Technical Report*
 
 * [**The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence**](https://arxiv.org/pdf/2605.26494)\\
 MiniMax Team \\
