@@ -59,6 +59,14 @@ Zhengyang Tang\*, **Ke Ji**\*, Xidong Wang\*, Zihan Ye\*, et al. \\
 **Ke Ji**, Yixin Lian, Linxu Li, Jingsheng Gao, Weiyuan Li, Bin Dai \\
 *ACL 2025 Findings*
 
+* [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501)\\
+Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al. \\
+<span style="color:#e74c3c">MiniMax Agent Technical Report</span>
+
+* [**The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence**](https://arxiv.org/pdf/2605.26494)\\
+MiniMax Team \\
+<span style="color:#e74c3c">MiniMax Technical Report</span>
+
 * [**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)\\
 Jingsheng Gao, Linxu Li, **Ke Ji**, Weiyuan Li, Yixin Lian, Yuzhuo Fu, et al. \\
 *ICLR 2025*
@@ -83,13 +91,6 @@ Junying Chen, Zhenyang Cai, **Ke Ji**, Xidong Wang, Wanlong Liu, Rongsheng Wang,
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 *ACL 2025 Findings*
 
-* [**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**](https://arxiv.org/pdf/2509.06501)\\
-Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, **Ke Ji**, et al. \\
-*MiniMax Agent Technical Report*
-
-* [**The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence**](https://arxiv.org/pdf/2605.26494)\\
-MiniMax Team \\
-*MiniMax Technical Report*
 
 # 📖 Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
