@@ -115,8 +115,8 @@ Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hong Kong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hong Kong, Shenzhen.
 
-# 💻 Internships
-- *2026.03 - now*, Recursive Self-Improvement, Meituan (beidou).
-- *2025.06 - 2025.12*, Interleaved Agent, MiniMax.
-- *2024.10 - 2025.05*, Self-Improvement and Mathematical Reasoning, Tencent AI Lab.
-- *2022.01 - 2023.01*, Prompt-based Learning, Xiaoice.
+# 💻 Experiences
+- *2026.03 - now*, Beidou Research Intern, Recursive Self-Improvement, Meituan (LongCat).
+- *2025.06 - 2025.12*, Research Intern, Interleaved Agent, MiniMax (Foundation Model).
+- *2024.10 - 2025.05*, Research Intern, Self-Improvement and Mathematical Reasoning, Tencent (AI Lab).
+- *2022.01 - 2023.01*, Research Intern, Few-Shot Learning, Xiaoice (Advanced Research).
