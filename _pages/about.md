@@ -115,10 +115,7 @@ Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hong Kong, Shenzhen.
 
 # 💻 Internships
+- *2026.03 - now*, Recursive Self-Improvement, Meituan (beidou).
 - *2025.06 - 2025.12*, Interleaved Agent, MiniMax.
 - *2024.10 - 2025.05*, Self-Improvement and Mathematical Reasoning, Tencent AI Lab.
 - *2022.01 - 2023.01*, Prompt-based Learning, Xiaoice.
-
-
-
-
