@@ -94,6 +94,10 @@ Junying Chen, Zhenyang Cai, **Ke Ji**, Xidong Wang, Wanlong Liu, Rongsheng Wang,
 Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 *ACL 2025 Findings*
 
+* [**GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?**](https://arxiv.org/abs/2606.17861)\\
+Tongxu Luo, Rongsheng Wang, Jiaxi Bi, Chenming Xu, Zhengyang Tang, Jianlong Chen, Juhao Liang, **Ke Ji**, et al. \\
+*arxiv preprint*
+
 </div>
 
 # 📖 Educations
