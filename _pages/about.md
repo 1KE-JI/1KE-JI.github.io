@@ -111,6 +111,7 @@ Junying Chen\*, Chi Gui\*, Anningzhe Gao, **Ke Ji**, et al. \\
 
 # 🎓 Teaching Experience
 
+- *2026.09 - 2027.01*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hong Kong, Shenzhen.
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hong Kong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hong Kong, Shenzhen.
 
