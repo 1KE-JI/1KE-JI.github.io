@@ -100,6 +100,12 @@ Tongxu Luo, Rongsheng Wang, Jiaxi Bi, Chenming Xu, Zhengyang Tang, Jianlong Chen
 
 </div>
 
+# 💻 Experiences
+- *2026.03 - now*, Beidou Research Intern, Recursive Self-Improvement, Meituan (LongCat).
+- *2025.06 - 2025.12*, Research Intern, Interleaved Agent, MiniMax (Foundation Model).
+- *2024.10 - 2025.05*, Research Intern, Self-Improvement and Mathematical Reasoning, Tencent (AI Lab).
+- *2022.01 - 2023.01*, Research Intern, Few-Shot Learning, Xiaoice (Advanced Research).
+
 # 📖 Educations
 - *2024.09 - now*,     PhD, The Chinese University of Hong Kong, Shenzhen.
 - *2021.09 - 2024.07*, Master, Southeast University, Nanjing. (National Scholarship, Top 1%)
@@ -118,9 +124,3 @@ Tongxu Luo, Rongsheng Wang, Jiaxi Bi, Chenming Xu, Zhengyang Tang, Jianlong Chen
 - *2026.09 - 2027.01*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hong Kong, Shenzhen.
 - *2025.02 - 2025.07*, TA of [Natural Language Processing](https://nlp-course-cuhksz.github.io/), The Chinese University of Hong Kong, Shenzhen.
 - *2024.09 - 2025.01*, TA of [Large Language Models](https://llm-course.github.io/), The Chinese University of Hong Kong, Shenzhen.
-
-# 💻 Experiences
-- *2026.03 - now*, Beidou Research Intern, Recursive Self-Improvement, Meituan (LongCat).
-- *2025.06 - 2025.12*, Research Intern, Interleaved Agent, MiniMax (Foundation Model).
-- *2024.10 - 2025.05*, Research Intern, Self-Improvement and Mathematical Reasoning, Tencent (AI Lab).
-- *2022.01 - 2023.01*, Research Intern, Few-Shot Learning, Xiaoice (Advanced Research).
